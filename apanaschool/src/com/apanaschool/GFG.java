@@ -17,7 +17,7 @@ public class GFG {
                 ans = i + 1;
             }
         }
-
+// return int value
         return ans;
 
 
